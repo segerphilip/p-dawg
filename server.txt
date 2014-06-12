@@ -1,1 +1,0 @@
-gcutil --service_version="v1" --project="numeric-melody-543" ssh --zone="us-central1-a" "instance-1"
