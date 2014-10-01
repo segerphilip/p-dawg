@@ -1,0 +1,15 @@
+body {
+	background: #FF4C6C;
+}
+p {
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 900;
+	font-size: 250%;
+	color: #000000;
+}
+IMG.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
