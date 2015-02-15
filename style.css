@@ -1,3 +1,6 @@
+body#index {
+	background-image: url(outline.png);
+}
 body#page1 {
 	background: #FF4C6C;
 }
@@ -8,13 +11,20 @@ body#page3 {
 	background: #F5F5F5;
 }
 body#page4 {
-  background: #FFA9CD;
+	background: #FFA9CD;
 }
 body#page5 {
-  background: #FFFFFF;
+	background: #FFFFFF;
 }
 body#page6 {
-  background: #262626;
+	background: #262626;
+}
+h1#index {
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 900;
+	font-size: 250%;
+	color: #3498DB;
 }
 h1#page1 {
 	text-align: center;
@@ -57,6 +67,15 @@ h1#page6 {
   font-weight: 900;
   font-size: 250%;
   color: #093A59;
+}
+h2#index {
+  position:fixed;
+  text-align: center;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  font-family: sans-serif;
+  color: #3498DB;
 }
 h2#page1 {
 	position:fixed;
@@ -111,6 +130,10 @@ h2#page6 {
   width: 100%;
   font-family: sans-serif;
   color: #093A59;
+}
+a#index {
+  color: #3498DB;
+  text-decoration: none;
 }
 a#page1 {
 	color: #36ABDB;
