@@ -1,4 +1,5 @@
 var path = require('path');
+// var gif = require(path.join(__dirname, '../public/images/'));
 
 var routes = {};
 
@@ -13,7 +14,7 @@ routes.one = function(req, res) {
   res.render('image', {'version': '1',
                        'body': '',
                        'page': '1',
-                       'image': '../public/images/gif1.gif'});
+                       'image': '../public/images/gif1.jpg'});
 }
 
 routes.two = function(req, res) {
