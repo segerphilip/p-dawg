@@ -1,51 +1,51 @@
 body#index {
-	background-image: url(outline.png);
+  background-image: url(../images/outline.png);
 }
 body#page1 {
-	background: #FF4C6C;
+  background: #FF4C6C;
 }
 body#page2 {
-	background: #2B2527;
+  background: #2B2527;
 }
 body#page3 {
-	background: #F5F5F5;
+  background: #F5F5F5;
 }
 body#page4 {
-	background: #FFA9CD;
+  background: #FFA9CD;
 }
 body#page5 {
-	background: #FFFFFF;
+  background: #FFFFFF;
 }
 body#page6 {
-	background: #262626;
+  background: #262626;
 }
 h1#index {
-	text-align: center;
-	font-family: sans-serif;
-	font-weight: 900;
-	font-size: 250%;
-	color: #3498DB;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 250%;
+  color: #3498DB;
 }
 h1#page1 {
-	text-align: center;
-	font-family: sans-serif;
-	font-weight: 900;
-	font-size: 250%;
-	color: #36ABDB;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 250%;
+  color: #36ABDB;
 }
 h1#page2 {
-	text-align: center;
-	font-family: sans-serif;
-	font-weight: 900;
-	font-size: 250%;
-	color: #124C5C;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 250%;
+  color: #124C5C;
 }
 h1#page3 {
-	text-align: center;
-	font-family: sans-serif;
-	font-weight: 900;
-	font-size: 250%;
-	color: #8F6656;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 250%;
+  color: #8F6656;
 }
 h1#page4 {
   text-align: center;
@@ -78,31 +78,31 @@ h2#index {
   color: #3498DB;
 }
 h2#page1 {
-	position:fixed;
-	text-align: center;
-	bottom: 0px;
-	height: 30px;
-	width: 100%;
-	font-family: sans-serif;
-	color: #36ABDB;
+  position:fixed;
+  text-align: center;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  font-family: sans-serif;
+  color: #36ABDB;
 }
 h2#page2 {
-	position:fixed;
-	text-align: center;
-	bottom: 0px;
-	height: 30px;
-	width: 100%;
-	font-family: sans-serif;
-	color: #124C5C;
+  position:fixed;
+  text-align: center;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  font-family: sans-serif;
+  color: #124C5C;
 }
 h2#page3 {
-	position:fixed;
-	text-align: center;
-	bottom: 0px;
-	height: 30px;
-	width: 100%;
-	font-family: sans-serif;
-	color: #8F6656;
+  position:fixed;
+  text-align: center;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  font-family: sans-serif;
+  color: #8F6656;
 }
 h2#page4 {
   position:fixed;
@@ -150,16 +150,16 @@ a#index {
   text-decoration: none;
 }
 a#page1 {
-	color: #36ABDB;
-	text-decoration: none;
+  color: #36ABDB;
+  text-decoration: none;
 }
 a#page2 {
-	color: #124C5C;
-	text-decoration: none;
+  color: #124C5C;
+  text-decoration: none;
 }
 a#page3 {
-	color: #8F6656;
-	text-decoration: none;
+  color: #8F6656;
+  text-decoration: none;
 }
 a#page4 {
   color: #2B7E8F;
@@ -174,7 +174,7 @@ a#page6 {
   text-decoration: none;
 }
 IMG.displayed {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

@@ -21,6 +21,7 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 
 app.get('/', index.home);
+app.get('/1', index.one);
 
 app.listen(PORT, function() {
   console.log('Node running on: ', PORT);
