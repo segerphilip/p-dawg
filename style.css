@@ -19,6 +19,9 @@ body#page5 {
 body#page6 {
 	background: #262626;
 }
+body#page7 {
+  background: ;
+}
 h1#index {
 	text-align: center;
 	font-family: sans-serif;
@@ -62,6 +65,13 @@ h1#page5 {
   color: #12405C;
 }
 h1#page6 {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 250%;
+  color: #093A59;
+}
+h1#page7 {
   text-align: center;
   font-family: sans-serif;
   font-weight: 900;
@@ -131,6 +141,15 @@ h2#page6 {
   font-family: sans-serif;
   color: #093A59;
 }
+h2#page7 {
+  position:fixed;
+  text-align: center;
+  bottom: 0px;
+  height: 30px;
+  width: 100%;
+  font-family: sans-serif;
+  color: #093A59;
+}
 p {
   min-height: 10em;
   margin: 0;
@@ -171,6 +190,10 @@ a#page5 {
 }
 a#page6 {
   color: #093A59;
+  text-decoration: none;
+}
+a#page7 {
+  color: ;
   text-decoration: none;
 }
 IMG.displayed {
